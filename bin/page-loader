@@ -1,0 +1,11 @@
+#!/usr/bin/env php
+<?php
+require_once __DIR__ . "/../vendor/autoload.php";
+
+$url = $argv[1];
+$directory = $argv[3];
+
+echo '<pre>';
+print_r($argv);
+echo '</pre>';
+die();

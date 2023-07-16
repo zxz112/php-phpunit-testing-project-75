@@ -1,0 +1,6 @@
+{
+    "name": "zxz112/pageloader",
+    "require-dev": {
+        "phpunit/phpunit": "^10.2"
+    }
+}
